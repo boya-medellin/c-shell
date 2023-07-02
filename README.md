@@ -1,5 +1,5 @@
 
-#Simple shell written in C.
+# Simple shell written in C.
 
 ## Features
 * Run Simple Commands 
