@@ -11,7 +11,7 @@
     - $echo $my_var
 
 * Signal Handling
-    - 1. CTRL-S: freeze screen
-    - 2. CTRL-Q: unfreeze screen
-    - 3. CTRL- Z: push process to background
-    - 4. fg: bring process from  backround to foreground
+    - CTRL-S: freeze screen
+    - CTRL-Q: unfreeze screen
+    - CTRL- Z: push process to background
+    - fg: bring process from  backround to foreground
