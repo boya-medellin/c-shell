@@ -1,5 +1,5 @@
 
-<h2 align="center">Simple shell program written in C.</h2>
+#Simple shell written in C.
 
 ## Features
 * Run Simple Commands 
